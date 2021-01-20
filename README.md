@@ -10,6 +10,9 @@ search and learn about internet protocols
 - Learning JS history:
  comments use // or /* */
  to create a variable on JS we use var "abc"; 
+ to create a string on JS we use var myStr "abc";
+ 
+quotes
 Code	Output
 \'	  single quote
 \"	  double quote
