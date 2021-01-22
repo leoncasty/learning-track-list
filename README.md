@@ -24,3 +24,4 @@ Code	Output
 \f	  form feed
  
  array [] - matrizes
+.push() takes one or more parameters and "pushes" them onto the end of the array. - adiciona uma informação in the array
