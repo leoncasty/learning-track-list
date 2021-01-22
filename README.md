@@ -25,3 +25,6 @@ Code	Output
  
  array [] - matrizes
 .push() takes one or more parameters and "pushes" them onto the end of the array. - adiciona uma informação in the array
+.pop() is used to "pop" a value off of the end of an array - contrario do push
+.shift() removes the first value off an array
+function nameFunction() { o que a função vai fazer; } - use this to create functions and invoke them on the code
